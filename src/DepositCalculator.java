@@ -37,3 +37,4 @@ public class DepositCalculator {
         new DepositCalculator().run();
     }
 }
+// Всё понятно и читаемо, молодец:)
